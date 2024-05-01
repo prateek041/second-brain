@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "699b347b21a86700",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fbf2c8b78b44805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29294d278e2b31f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8204dbf98a80530b",
+    "type": "split",
+    "children": [
+      {
+        "id": "17da8cd9b42dccb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c829905ac97fce9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "808339a2d53d1380",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df63e5015a524147",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bc15fb2946e67b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7758805365663e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa4ec2dcfa9f115",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa921bbfbf24763c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94360d8094e7bcb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6ad96479713a1f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "29294d278e2b31f8",
+  "lastOpenFiles": [
+    "DNS.md",
+    "Tetragon Metrics.md",
+    "How DNS works.md",
+    "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-23 23.29.16.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md"
+  ]
+}

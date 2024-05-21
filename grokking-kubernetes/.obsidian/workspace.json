@@ -11,9 +11,11 @@
             "id": "29294d278e2b31f8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md"
+                "file": "How DNS works.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
+                "file": "How DNS works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
+                "file": "How DNS works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md"
+                "file": "How DNS works.md"
               }
             }
           }
@@ -147,10 +149,10 @@
   },
   "active": "29294d278e2b31f8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
     "DNS.md",
     "Tetragon Metrics.md",
     "How DNS works.md",
-    "Excalidraw/Drawing 2024-04-23 23.30.03.excalidraw.md",
     "Excalidraw/Drawing 2024-04-23 23.29.16.excalidraw.md",
     "Excalidraw",
     "Welcome.md"

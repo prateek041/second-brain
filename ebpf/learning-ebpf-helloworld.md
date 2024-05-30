@@ -2,7 +2,7 @@
 
 when using BCC's Python library, a sample hello world program looks like this.
 
-```Python
+```python
 from bcc import BPF
 
 program = r"""
@@ -27,4 +27,4 @@ b.trace_print()
 
 The Python program compiles the C code, loads it into the kernel, and attaches it to the execve syscall kprobe. Whenever any applica‐ tion on this (virtual) machine calls execve(), it triggers the eBPF hello() program, which writes a line of trace into a specific pseudofile.
 
-The Python program reads the trace message from the pseu‐ dofile and displays it to the user.
+The Python program reads the trace message from the pseu‐ dofile and displays it to the user. The pseudofile is present at '/sys/kernel/debug/tracing/trace_pipe'

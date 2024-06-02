@@ -31,7 +31,12 @@ The collector and the metric have to describe themselves to a registry, to make 
 
 ## Collector
 
-In prometheus, Collector is the interface that is implemented by anything that can be used to collect metrics.
+In prometheus, Collector is the interface that is implemented by anything that can be used to collect metrics
+
+To implement the collector interface, any type must have two methods
+
+- Describe: This gives information about the metric itself.
+- Collect: Metrics are collected through this.
 
 ## Descriptor
 

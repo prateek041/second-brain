@@ -1,6 +1,6 @@
 # Writer Interface
 
-Any type, that implements a *Write* method can be used to write through packages like os, fmt etc.
+Any type, that implements a _Write_ method can be used to write through packages like os, fmt etc.
 
 ## File Descriptors
 
@@ -8,6 +8,7 @@ File descriptors are the mechanism through which Operating System keeps track of
 but file descriptors.
 
 There are some standards:
+
 - stdin: 0
 - stdout: 1
 - stderr: 2

@@ -243,3 +243,17 @@ To attach an XDP program to an XDP event, we can use bpftool like this.
 `bpftool net attach xdp id <program id> dev eth0`
 
 The above command attaches the program `program id` to eth0 interface.
+
+> [!NOTE]
+> You can list all the network attached eBPF programs using bpftool.
+> `bpftool net list`
+
+To see the generated trace output, either do `cat /sys/kernel/debug/traceing/trace_pipe`, or do `bpftool prog tracelog`.
+
+> [!IMPORTANT]
+> Remember, this is a global variable, so we need to read more about it, for now all you need to know that it is being handled by kernel.
+
+- To detach the program, use `bpftool net detach xdp dev eth0`.
+- Unload from the Kernel, use `rm /sys/fs/bpf/hello`
+
+## TODO: BPF to BPF call page-54 learning eBPF

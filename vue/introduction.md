@@ -74,3 +74,5 @@ onMounted(()=>{
   <button @click="increment">Count is: {{ count }}</button>
 </template>
 ```
+
+> [!TODO] Read about how to use TypeScript and Component API.
